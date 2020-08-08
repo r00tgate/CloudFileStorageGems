@@ -3,7 +3,7 @@
 
 * The software needed for this course has been downloaded and placed into Cloud-Storage-Workshop-Installers.zip for your convenience: https://workshop-cloud-storage.s3-us-west-2.amazonaws.com/Cloud-Storage-Workshop-Installers.zip
 
-* Download the lab files here and extract the contents to your computer (alternatively, you can download the software from the developer, however the versions may be different): https://workshop-cloud-storage.s3-us-west-2.amazonaws.com/evidence-DESKTOP-Q50SISB.zip
+* Download the lab files here and extract the contents to your computer (alternatively, you can download the software from the developer, however the versions may be different): https://workshop-cloud-storage.s3-us-west-2.amazonaws.com/evidence-DESKTOP-Q50SISB.zip (password = infected)
 
 
 
